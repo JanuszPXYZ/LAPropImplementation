@@ -6,3 +6,8 @@ I stumbled upon a very interesting paper written by Liu Ziyin, Zhikang T.Wang, a
 Having implemented Adam from scratch earlier, I noticed the similarities and thought why not add this algorithm to the library that I was creating for myself. Fun exercise, and a very interesting paper!
 
 Link to the paper: [LaProp: Separating Momentum and Adaptivity in Adam](https://arxiv.org/pdf/2002.04839.pdf)
+
+
+### ToDo:
+
+- add the plot that compares Adam and LAProp performance on some existing datasets 
