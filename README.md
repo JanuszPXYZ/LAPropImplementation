@@ -1,4 +1,4 @@
-# LAPropImplementation
+# LAProp (Algorithm Implementation)
 
 Recently I was working my way through a lot of deep learning books, and the subject of optimization came up, which I always found interesting. 
 While looking for a different optimization algorithm (AMSGrad), 
