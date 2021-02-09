@@ -19,4 +19,4 @@ network with two hidden layers, with ReLU activation function. Because I used a 
 I got the results. I had to reshape the MNIST dataset, so that I could pass the data through dense layers (no CNN's were used here this time). Ideally, I'd like
 to implement this optimization algorithm in TensorFlow and see how well it performs then. 
 
-<img src = "https://user-images.githubusercontent.com/19962689/107440173-7aa3ee80-6b33-11eb-8f00-fee1138d9b28.png" width = "200" height = "400">
+<img src = "https://user-images.githubusercontent.com/19962689/107440173-7aa3ee80-6b33-11eb-8f00-fee1138d9b28.png">
