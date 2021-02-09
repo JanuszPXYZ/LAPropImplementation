@@ -11,7 +11,6 @@ Link to the paper: [LaProp: Separating Momentum and Adaptivity in Adam](https://
 ### ToDo:
 
 - implementation in TensorFlow
-- run the comparison a few more times
 
 
 The graph below shows the performance of both optimization algorithms on the MNIST dataset. This is the first "comparison graph". I used a
