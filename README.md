@@ -10,5 +10,13 @@ Link to the paper: [LaProp: Separating Momentum and Adaptivity in Adam](https://
 
 ### ToDo:
 
-- add plots that compare performance of Adam and LAProp on existing datasets
 - implementation in TensorFlow
+- run the comparison a few more times
+
+
+The graph below shows the performance of both optimization algorithms on a MNIST dataset. This is the first "comparison graph". I used a
+network with two hidden layers, with ReLU activation function. Because I used a DL library that I coded for myself, its performance was rather poor, but
+I got the results. I had to reshape the MNIST dataset, so that I could pass the data through dense layers (no CNN's were used here this time). Ideally, I'd like
+to implement this optimization algorithm in TensorFlow and see how well it performs then. 
+
+[AdamvsLAProp](https://user-images.githubusercontent.com/19962689/107440173-7aa3ee80-6b33-11eb-8f00-fee1138d9b28.png)
