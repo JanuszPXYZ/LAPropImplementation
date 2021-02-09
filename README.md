@@ -10,4 +10,5 @@ Link to the paper: [LaProp: Separating Momentum and Adaptivity in Adam](https://
 
 ### ToDo:
 
-- add plots that compare performance of Adam and LAProp on existing datasets 
+- add plots that compare performance of Adam and LAProp on existing datasets
+- implementation in TensorFlow
